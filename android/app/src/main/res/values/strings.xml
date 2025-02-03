@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">apni-singoli</string>
+    <string name="title_activity_main">apni-singoli</string>
+    <string name="package_name">com.aapni.singoli</string>
+    <string name="custom_url_scheme">com.aapni.singoli</string>
+</resources>

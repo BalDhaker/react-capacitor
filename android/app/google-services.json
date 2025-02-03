@@ -1,0 +1,56 @@
+{
+    "project_info": {
+      "project_number": "236587639085",
+      "firebase_url": "https://apni-singoli.firebaseio.com",
+      "project_id": "apni-singoli",
+      "storage_bucket": "apni-singoli.firebasestorage.app"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:236587639085:android:279289f1ee0b68c4b373a4",
+          "android_client_info": {
+            "package_name": "com.aapni.singoli"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "236587639085-mfhrdrlldm6i0he40v2uk3up13kp9ch5.apps.googleusercontent.com",
+            "client_type": 1,
+            "android_info": {
+              "package_name": "com.aapni.singoli",
+              "certificate_hash": "5865f80f879a9ee0921bf53c2894e723994292eb"
+            }
+          },
+          {
+            "client_id": "236587639085-vit1472hktm3ujgvfae253kc1t1agorg.apps.googleusercontent.com",
+            "client_type": 1,
+            "android_info": {
+              "package_name": "com.aapni.singoli",
+              "certificate_hash": "aabba095518e4cf785fc24d11d2b7416d2295eb2"
+            }
+          },
+          {
+            "client_id": "236587639085-lsq2kdve61mhkn4s3bmkmg7eaq37bgnd.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyAib5ozvBsNREmkN_RnqH0sMWQ6O-MQAZY"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "236587639085-lsq2kdve61mhkn4s3bmkmg7eaq37bgnd.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }

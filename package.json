@@ -10,12 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@capacitor-firebase/authentication": "^7.0.0",
-    "@capacitor/android": "^7.0.1",
+    "@capacitor/camera": "^7.0.0",
     "@capacitor/cli": "^6.2.0",
     "@capacitor/core": "^7.0.1",
-    "@capacitor/ios": "^7.0.1",
-    " ": "^11.2.0",
+    "@ionic/pwa-elements": "file:pwa-elements",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
